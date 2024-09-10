@@ -19,7 +19,7 @@ export default function Home() {
         </ul>
       </nav>
       <div className="content" style={{
-        width:'100%', backgroundColor:'beige', display:'flex', flexDirection:'row', alignContent: 'center', justifyContent:'space-evenly'
+        width:'100%', backgroundColor:'beige', display:'flex', flexDirection:'row', alignContent: 'center', justifyContent:'space-evenly', paddingTop:'20px'
       }}>
         <div className="leftContent">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IwZiPGK3EJdGaM6wU-gsQGBeDAXZ_xaz7w&s" style={{height:'400px'}}></img>

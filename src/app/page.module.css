@@ -1,5 +1,5 @@
 .nav {
-  height: 75px;
+  height: 55px;
   width: 100%;
   background-color: lightgrey;
 }
@@ -16,9 +16,9 @@
   }
   .nav ul li a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 20px;
   }
-.content {
- 
+.content p {
+    font-size: 15px;
 }
